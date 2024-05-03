@@ -1,21 +1,26 @@
 {
-  "name": "solarized-kuro",
-  "displayName": "Solarized Kuro",
-  "description": "Solarized Kuro",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.89.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Solarized Kuro",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Solarized Kuro-color-theme.json"
-      }
-    ]
-  }
+	"name": "solarized-kuro",
+	"displayName": "Solarized Kuro",
+	"description": "Solarized Kuro",
+	"version": "1.0.0",
+	"publisher": "arturious",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/arturious/vscode-theme-solarized-kuro"
+	},
+	"engines": {
+		"vscode": "^1.89.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Solarized Kuro",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Solarized Kuro-color-theme.json"
+			}
+		]
+	}
 }
