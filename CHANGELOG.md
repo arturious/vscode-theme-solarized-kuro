@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [1.2.1] - 2026-05-20
+
+- Publish Solarized Kuro update above the existing Marketplace version.
+
 ## [1.1.1] - 2026-05-20
 
 - Update theme colors from Solarized Osaka.
