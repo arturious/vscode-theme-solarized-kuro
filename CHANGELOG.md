@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [1.3.0] - 2026-05-20
+
+- Add extension logo and screenshots.
+
 ## [1.2.1] - 2026-05-20
 
 - Publish Solarized Kuro update above the existing Marketplace version.
