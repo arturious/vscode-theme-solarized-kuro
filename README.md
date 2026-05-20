@@ -1,7 +1,10 @@
 <h1 align="center">Solarized Kuro Theme for VS Code</h1>
 
-<p align="center">
-  [![Marketplace](https://img.shields.io/github/package-json/v/arturious/vscode-theme-solarized-kuro?label=Marketplace&labelColor=rgba%289%2C72%2C88%2C0.68%29&color=rgba%289%2C72%2C88%2C0.68%29)](https://marketplace.visualstudio.com/items?itemName=arturious.solarized-kuro)
-</p>
+<a href="https://marketplace.visualstudio.com/items?itemName=arturious.solarized-kuro" target="_blank">
+  <img
+    alt="Marketplace Version"
+    src="https://img.shields.io/github/package-json/v/arturious/vscode-theme-solarized-kuro?label=Marketplace&labelColor=rgba%289%2C72%2C88%2C0.68%29&color=rgba%289%2C72%2C88%2C0.68%29"
+  />
+</a>
 
-<h3>A clean dark theme for Visual Studio Code base on Solarized Dark theme.</h3>
+<h3>A clean dark AMOLED theme for Visual Studio Code base on Solarized Dark theme.</h3>
