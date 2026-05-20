@@ -4,6 +4,7 @@
 	"description": "Solarized Kuro",
 	"version": "1.2.1",
 	"publisher": "arturious",
+	"icon": "solarized-kuro-logo.png",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/arturious/vscode-theme-solarized-kuro"
