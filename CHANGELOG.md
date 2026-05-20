@@ -7,3 +7,8 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+
+## [1.1.1] - 2026-05-20
+
+- Update theme colors from Solarized Osaka.
+- Keep black editor and UI backgrounds for Solarized Kuro.
