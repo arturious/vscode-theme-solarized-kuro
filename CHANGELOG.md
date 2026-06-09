@@ -8,7 +8,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
-## [1.3.1] - 2026-06-10
+## [1.4.0] - 2026-06-10
 
 - Update tab and breadcrumb backgrounds.
 - Add active and inactive colored bracket pair guides.
