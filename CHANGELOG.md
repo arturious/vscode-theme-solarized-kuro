@@ -8,6 +8,13 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [1.3.1] - 2026-06-10
+
+- Update tab and breadcrumb backgrounds.
+- Add active and inactive colored bracket pair guides.
+- Add colored active and inactive tree folder structure guides.
+- Make scrollbar shadow blend into breadcrumbs.
+
 ## [1.3.0] - 2026-05-20
 
 - Add extension logo and screenshots.
