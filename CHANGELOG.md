@@ -8,6 +8,10 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 - Initial release
 
+## [1.4.1] - 2026-06-13
+
+- Add workspace settings to always render tree indent guides in the VS Code file explorer.
+
 ## [1.4.0] - 2026-06-10
 
 - Update tab and breadcrumb backgrounds.
