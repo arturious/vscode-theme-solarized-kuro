@@ -11,15 +11,5 @@
 
 <h3>A clean dark AMOLED theme for Visual Studio Code base on Solarized Dark theme.</h3>
 
-### React
+![Solarized Kuro Theme Preview](screenshot.png)
 
-![React Screen](screen-react.png)
-
-### Vue
-
-![Vue Screen](screen-vue.png)
-
-
-### Rust
-
-![Rust Screen](screen-rust.png)
