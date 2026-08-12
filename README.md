@@ -7,6 +7,12 @@
     src="https://img.shields.io/github/package-json/v/arturious/vscode-theme-solarized-kuro?label=Marketplace&labelColor=rgba%289%2C72%2C88%2C0.68%29&color=rgba%289%2C72%2C88%2C0.68%29"
   />
 </a>
+<a href="https://open-vsx.org/extension/arturious/solarized-kuro" target="_blank">
+  <img
+    alt="Open VSX Version"
+    src="https://img.shields.io/open-vsx/v/arturious/solarized-kuro?label=Open%20VSX&labelColor=rgba%289%2C72%2C88%2C0.68%29&color=rgba%289%2C72%2C88%2C0.68%29"
+  />
+</a>
 </p>
 
 <h3>A clean dark AMOLED theme for Visual Studio Code base on Solarized Dark theme.</h3>
